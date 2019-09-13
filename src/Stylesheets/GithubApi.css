@@ -1,0 +1,17 @@
+.col-sm-8 {
+    background-color: white;
+    margin-left: 20px;
+    height: 500px;
+    padding: 20px;
+}
+ img {
+    height:150px;
+    border-radius: 50%;
+}
+.Name {
+    margin-top: 40px;
+    margin-left:60px;
+}
+.text-muted{
+    margin-left: 60px;
+}
